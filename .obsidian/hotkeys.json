@@ -1,0 +1,10 @@
+{
+  "callout-manager:manage-callouts": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ]
+}
