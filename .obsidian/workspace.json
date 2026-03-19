@@ -90,11 +90,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 228.50043487548828
+    "width": 224.5040512084961
   },
   "right": {
     "id": "115357f32ba5099e",
@@ -182,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,26 +200,33 @@
   },
   "active": "ae4791864ab36e3a",
   "lastOpenFiles": [
-    "Pasted image 20260318141428.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/知识点笔记.md",
-    "学习笔记/编程/C#/C#四部曲/笔记.md",
-    "学习笔记/编程/C#/C#四部曲/附件/Pasted image 20260318134642.png",
-    "学习笔记/编程/C#/CS四部曲/未命名",
-    "学习笔记/编程/C#/C#四部曲/附件/Pasted image 20260317223536.png",
-    "学习笔记/编程/C#/C#四部曲",
+    "Pasted image 20260319180252.png",
+    "一些项目/暑期考核/考核前的准备.md",
+    "新建文件夹",
+    "PlayerPrefsDataMgr.unitypackage",
     "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260317205022.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260317211822.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260317211241.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260317134544.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260317195457.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260317142314.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260317140718.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260317140312.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/知识点笔记.md",
+    "一些项目/暑期考核",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260319140630.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260319134315.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260318220808.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260319134233.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260319132608.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260319131519.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260319124609.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260318225358.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260318223823.png",
+    "学习笔记/编程/C#/C#四部曲/笔记.md",
+    "Pasted image 20260318225134.png",
+    "奇奇怪怪的知识/Obsidian的食用方法/Callout Manager.md",
+    "奇奇怪怪的知识/Obsidian的食用方法/数学相关.md",
+    "学习笔记/编程/通识/Git/Git命令表.md",
+    "学习笔记/编程/通识/时间复杂度和空间复杂度.md",
+    "学习笔记/编程/C#/CS四部曲/未命名",
+    "学习笔记/编程/C#/C#四部曲",
     "学习笔记/编程/Unity/Unity四部曲/入门",
     "学习笔记/编程/Unity/Unity四部曲",
     "学习笔记/编程/Unity/M_3D RPG/流程笔记.md",
-    "学习笔记/编程/通识/Git/Git命令表.md",
     "学习笔记/学业/线性代数/第四章—矩阵的相似对角化/欧式空间.md",
     "学习笔记/学业/线性代数/行列式计算矩阵的乘法计算求矩阵的逆矩阵求矩阵的伴随矩阵 求矩阵的行列式求矩阵的秩求解矩阵方程.md",
     "学习笔记/学业/高等数学(上)/第一章/重要概念总结.md",
@@ -235,15 +243,8 @@
     "奇奇怪怪的知识/VSCode的食用方法/中文路径的代码无法执行问题.md",
     "奇奇怪怪的知识/VSCode的食用方法/更优雅的使用VSCode.md",
     "奇奇怪怪的知识/VSCode的食用方法/VSCode的安装以及语言配置.md",
-    "奇奇怪怪的知识/磁盘操作.md",
-    "README.md",
-    "学习笔记/编程/Unity/M_3D RPG/u3d.md",
-    "1,2,3],[8,9,4],[7,6,5.md",
     "学习笔记/编程/Unity/Unity四部曲/入门/附件",
     "学习笔记/编程/C#/C#四部曲/附件",
-    "学习笔记/编程/Unity/M_3D RPG/附件",
-    "学习笔记/编程/Unity/M_3D RPG",
-    "学习笔记/Unity",
-    "学习笔记/编程/C++/附件"
+    "学习笔记/编程/Unity/M_3D RPG/附件"
   ]
 }
