@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一些项目/暑期考核/考核前的准备.md",
+                "file": "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "考核前的准备"
+              "title": "实践笔记"
             }
           }
         ],
@@ -54,13 +54,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一些项目/暑期考核/考核前的准备.md",
+                "file": "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "考核前的准备 的大纲"
+              "title": "实践笔记 的大纲"
             }
           },
           {
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5040512084961
+    "width": 240.5040512084961
   },
   "right": {
     "id": "115357f32ba5099e",
@@ -199,32 +199,39 @@
   },
   "active": "ae4791864ab36e3a",
   "lastOpenFiles": [
-    "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
-    "一些项目/暑期考核/考核前的准备.md",
-    "CustomGUI.unitypackage",
     "学习笔记/编程/Unity/Unity四部曲/入门/知识点笔记.md",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260321104918.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260321141440.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260321140228.png",
-    "Pasted image 20260321135457.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260321140012.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260321134652.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260321122037.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260321121249.png",
-    "Pasted image 20260321120615.png",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260321120555.png",
-    "新建文件夹",
-    "PlayerPrefsDataMgr.unitypackage",
-    "一些项目/暑期考核",
+    "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
+    "Unity入门实践项目类图.xmind",
+    "学习笔记/编程/Unity/Unity四部曲/入门/Unity入门实践项目类图.xmind",
+    "学习笔记/编程/Unity/Unity四部曲/Unity入门实践项目类图.xmind",
+    "学习笔记/编程/Unity/Unity四部曲/入门/Unity入门思维导图.xmind",
+    "学习笔记/编程/Unity/Unity四部曲/Unity入门思维导图.xmind",
+    "学习笔记/编程/Unity/Unity入门思维导图.xmind",
+    "学习笔记/编程/Unity入门思维导图.xmind",
+    "学习笔记/Unity入门思维导图.xmind",
+    "一些项目/暑期考核/考核前的准备.md",
+    "一些资料/资料链接.md",
+    "README.md",
+    "学习笔记/编程/Unity/PlayerPrefs.md",
+    "Unity入门思维导图.xmind",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260324223218.png",
+    "完成的Unity包/CustomGUI.unitypackage",
+    "学习笔记/编程/C++/笔记.md",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260324224417.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260324224317.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260324224252.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260324224210.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260324223639.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/附件/Pasted image 20260324223358.png",
+    "学习笔记/学业/C++程序设计/大作业/黄贞佶_2500310214_2.md",
+    "学习笔记/学业/C++程序设计/大作业/附件/Pasted image 20260323225219.png",
+    "学习笔记/学业/C++程序设计/大作业/附件/Pasted image 20260323225229.png",
+    "学习笔记/学业/C++程序设计/大作业/附件/PixPin_2026-03-23_22-52-06.png",
     "学习笔记/编程/C#/C#四部曲/笔记.md",
     "奇奇怪怪的知识/Obsidian的食用方法/Callout Manager.md",
     "奇奇怪怪的知识/Obsidian的食用方法/数学相关.md",
     "学习笔记/编程/通识/Git/Git命令表.md",
     "学习笔记/编程/通识/时间复杂度和空间复杂度.md",
-    "学习笔记/编程/C#/CS四部曲/未命名",
-    "学习笔记/编程/C#/C#四部曲",
-    "学习笔记/编程/Unity/Unity四部曲/入门",
-    "学习笔记/编程/Unity/Unity四部曲",
     "学习笔记/编程/Unity/M_3D RPG/流程笔记.md",
     "学习笔记/学业/线性代数/第四章—矩阵的相似对角化/欧式空间.md",
     "学习笔记/学业/线性代数/行列式计算矩阵的乘法计算求矩阵的逆矩阵求矩阵的伴随矩阵 求矩阵的行列式求矩阵的秩求解矩阵方程.md",
@@ -234,15 +241,8 @@
     "学习笔记/编程/通识/Git/Git初次学习.md",
     "学习笔记/编程/算法/数组篇.md",
     "学习笔记/编程/算法/快速排序.md",
-    "学习笔记/编程/C++/笔记.md",
     "学习笔记/编程/C++/头文件 VS 命名空间.md",
     "学习笔记/编程/C++/函数参数的声明注意.md",
-    "学习笔记/编程/Unity/组件.md",
-    "奇奇怪怪的知识/VSCode的食用方法/右键打开文件夹没有了？.md",
-    "奇奇怪怪的知识/VSCode的食用方法/中文路径的代码无法执行问题.md",
-    "奇奇怪怪的知识/VSCode的食用方法/更优雅的使用VSCode.md",
-    "奇奇怪怪的知识/VSCode的食用方法/VSCode的安装以及语言配置.md",
-    "学习笔记/编程/Unity/Unity四部曲/入门/附件",
-    "学习笔记/编程/C#/C#四部曲/附件"
+    "学习笔记/编程/Unity/组件.md"
   ]
 }
