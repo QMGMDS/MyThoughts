@@ -54,13 +54,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习笔记/编程/C#/C#四部曲/笔记.md",
+                "file": "学习笔记/面向读者笔记/反射篇.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "笔记 的大纲"
+              "title": "反射篇 的大纲"
             }
           },
           {
@@ -90,8 +90,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,13 +199,14 @@
   },
   "active": "72434037da13e0a3",
   "lastOpenFiles": [
-    "学习笔记/编程/Unity/Unity四部曲/入门/知识点笔记.md",
     "学习笔记/面向读者笔记/反射篇.md",
-    "学习笔记/编程/C#/C#四部曲/笔记.md",
-    "奇奇怪怪的知识/MC 开启死亡计分板.md",
-    "奇奇怪怪的知识/MC 关闭友伤.md",
     "学习笔记/面向读者笔记/静态篇.md",
     "学习笔记/面向读者笔记/枚举篇.md",
+    "README.md",
+    "学习笔记/编程/C#/C#四部曲/笔记.md",
+    "学习笔记/编程/Unity/Unity四部曲/入门/知识点笔记.md",
+    "奇奇怪怪的知识/MC 开启死亡计分板.md",
+    "奇奇怪怪的知识/MC 关闭友伤.md",
     "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
     "学习笔记/编程/Unity/PlayerPrefs.md",
     "学习笔记/编程/通识/Git/Git命令表.md",
@@ -224,7 +224,6 @@
     "学习笔记/编程/C++/笔记.md",
     "学习笔记/编程/C++/头文件 VS 命名空间.md",
     "学习笔记/编程/Unity/MVC程序架构.md",
-    "README.md",
     "学习笔记/编程/C#/C#四部曲/附件/Pasted image 20260326220445.png",
     "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260327205039.png",
     "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260327205331.png",
