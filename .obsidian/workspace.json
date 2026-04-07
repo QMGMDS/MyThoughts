@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习笔记/编程/C#/C#四部曲/笔记.md",
+                "file": "学习笔记/编程/Unity/Unity四部曲/基础/知识点笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "知识点笔记"
             }
           }
         ],
@@ -54,13 +54,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习笔记/面向读者笔记/反射篇.md",
+                "file": "学习笔记/编程/Unity/Unity四部曲/基础/知识点笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "反射篇 的大纲"
+              "title": "知识点笔记 的大纲"
             }
           },
           {
@@ -199,51 +199,51 @@
   },
   "active": "72434037da13e0a3",
   "lastOpenFiles": [
+    "学习笔记/编程/Unity/Unity四部曲/基础/实践笔记.md",
+    "学习笔记/编程/Unity/Unity四部曲/基础/知识点笔记.md",
+    "想做就做了/看完力，说说我的看法.md",
+    "想做就做了/简介的说.md",
+    "奇奇怪怪的知识/Rider的食用方法/修改 Rider 代码配色.md",
+    "奇奇怪怪的知识/Rider的食用方法/关闭 Rider 代码补全提示.md",
+    "奇奇怪怪的知识/Rider的食用方法/附件/Pasted image 20260406164420.png",
+    "奇奇怪怪的知识/Rider的食用方法/附件",
+    "奇奇怪怪的知识/Rider的食用方法/附件/Pasted image 20260406163801.png",
+    "奇奇怪怪的知识/Rider的食用方法/常用快捷键.md",
+    "学习笔记/学业/C++程序设计/大作业/黄贞佶_2500310214_4.md",
+    "学习笔记/学业/C++程序设计/大作业/附件/PixPin_2026-04-06_16-27-41.png",
+    "学习笔记/学业/C++程序设计/大作业/附件/PixPin_2026-04-06_16-21-49.png",
+    "学习笔记/学业/C++程序设计/大作业/附件/PixPin_2026-04-06_16-22-22.png",
+    "学习笔记/学业/C++程序设计/大作业/黄贞佶_2500310214_2.md",
+    "奇奇怪怪的知识/Obsidian的食用方法/数学相关.md",
+    "学习笔记/编程/Unity/Unity四部曲/基础/附件/Pasted image 20260406135101.png",
+    "学习笔记/编程/Unity/Unity四部曲/基础/附件/Pasted image 20260406140256.png",
+    "学习笔记/编程/Unity/Unity四部曲/基础/附件/Pasted image 20260406115605.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/知识点笔记.md",
+    "学习笔记/编程/C#/C#四部曲/笔记.md",
+    "奇奇怪怪的知识/Rider的食用方法",
+    "学习笔记/编程/Unity/Unity四部曲/基础/附件/Pasted image 20260405204635.png",
+    "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
+    "学习笔记/编程/Unity/Unity四部曲/基础/附件",
+    "学习笔记/编程/Unity/Unity四部曲/基础",
+    "学习笔记/编程/Unity/M_3D RPG/流程笔记.md",
+    "学习笔记/编程/Unity/PlayerPrefs.md",
     "学习笔记/面向读者笔记/反射篇.md",
     "学习笔记/面向读者笔记/静态篇.md",
     "学习笔记/面向读者笔记/枚举篇.md",
     "README.md",
-    "学习笔记/编程/C#/C#四部曲/笔记.md",
-    "学习笔记/编程/Unity/Unity四部曲/入门/知识点笔记.md",
     "奇奇怪怪的知识/MC 开启死亡计分板.md",
     "奇奇怪怪的知识/MC 关闭友伤.md",
-    "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
-    "学习笔记/编程/Unity/PlayerPrefs.md",
     "学习笔记/编程/通识/Git/Git命令表.md",
     "学习笔记/编程/通识/Git/Git初次学习.md",
-    "学习笔记/编程/Unity/M_3D RPG/流程笔记.md",
     "学习笔记/编程/Unity/组件.md",
     "学习笔记/GAMES101/笔记.md",
     "学习笔记/面向读者笔记",
     "学习笔记/编程/C#/C#四部曲/附件/Pasted image 20260318134642.png",
     "学习笔记/编程/C#/特性/System.Serializable.md",
-    "学习笔记/编程/C#/基础概念/参数类型.md",
-    "学习笔记/编程/C#/基础概念/参数传递方式.md",
-    "学习笔记/编程/C#/关键字/static.md",
-    "学习笔记/编程/C#/关键字/ref.md",
-    "学习笔记/编程/C++/笔记.md",
-    "学习笔记/编程/C++/头文件 VS 命名空间.md",
-    "学习笔记/编程/Unity/MVC程序架构.md",
-    "学习笔记/编程/C#/C#四部曲/附件/Pasted image 20260326220445.png",
-    "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260327205039.png",
-    "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260327205331.png",
-    "学习笔记/编程/Unity/M_3D RPG/u3d.md",
-    "学习笔记/编程/C#/C#中级编程笔记.md",
-    "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260326095453.png",
-    "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260326140556.png",
-    "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260326140419.png",
-    "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260326130632.png",
-    "学习笔记/编程/Unity/M_3D RPG/附件/Pasted image 20260326120729.png",
-    "Pasted image 20260326093203.png",
-    "学习笔记/编程/Unity/JSON.md",
     "学习笔记/编程/Unity/Unity四部曲/入门/Unity入门思维导图.xmind",
     "Unity入门实践项目类图.xmind",
     "学习笔记/编程/Unity/Unity四部曲/入门/Unity入门实践项目类图.xmind",
     "学习笔记/编程/Unity/Unity四部曲/Unity入门实践项目类图.xmind",
-    "学习笔记/编程/Unity/Unity四部曲/Unity入门思维导图.xmind",
-    "学习笔记/编程/Unity/Unity入门思维导图.xmind",
-    "学习笔记/编程/Unity入门思维导图.xmind",
-    "学习笔记/Unity入门思维导图.xmind",
-    "Unity入门思维导图.xmind"
+    "学习笔记/编程/Unity/Unity四部曲/Unity入门思维导图.xmind"
   ]
 }
