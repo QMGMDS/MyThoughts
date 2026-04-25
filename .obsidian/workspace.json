@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习笔记/编程/Unity/时间相关 Time.md",
+                "file": "学习笔记/编程/Unity/实践补充知识点/Transfrom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时间相关 Time"
+              "title": "Transfrom"
             }
           }
         ],
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习笔记/编程/Unity/时间相关 Time.md",
+                "file": "学习笔记/编程/Unity/实践补充知识点/Transfrom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "时间相关 Time 的大纲"
+              "title": "Transfrom 的大纲"
             }
           },
           {
@@ -199,22 +199,35 @@
   },
   "active": "058c261db5eff9f5",
   "lastOpenFiles": [
-    "学习笔记/编程/Unity/Pasted image 20260420170856.png",
-    "学习笔记/编程/Unity/时间相关 Time.md",
+    "学习笔记/编程/Unity/实践补充知识点/Component.md",
+    "学习笔记/编程/Unity/实践补充知识点/GameObject.md",
+    "学习笔记/编程/Unity/实践补充知识点/Object.md",
+    "学习笔记/编程/Unity/实践补充知识点/Transfrom.md",
+    "学习笔记/编程/Unity/实践补充知识点/时间相关 Time.md",
     "学习笔记/编程/Unity/Unity四部曲/入门/知识点笔记.md",
+    "学习笔记/编程/Unity/实践补充知识点/Pasted image 20260420170856.png",
     "学习笔记/编程/Unity/Unity四部曲/基础/知识点笔记.md",
+    "学习笔记/编程/Unity/Unity四部曲/基础/实践笔记.md",
     "学习笔记/编程/CSharp/笔记.md",
+    "学习笔记/编程/网络开发/网络开发必备理论.md",
+    "学习笔记/编程/网络开发/未命名",
+    "学习笔记/编程/网络开发/消息处理.md",
+    "学习笔记/编程/网络开发/网络通信.md",
+    "学习笔记/编程/网络开发/网络协议.md",
+    "学习笔记/编程/Unity/Unity四部曲/进阶/数据持久化二进制.md",
+    "学习笔记/编程/网络开发",
+    "学习笔记/编程/Unity/Unity四部曲/进阶/InputSystem.md",
+    "学习笔记/编程/Unity/Unity四部曲/核心/实践笔记.md",
+    "学习笔记/编程/Unity/实践补充知识点",
     "学习笔记/编程/Unity/Unity四部曲/入门/实践笔记.md",
+    "学习笔记/编程/C++/笔记.md",
     "学习笔记/编程/Unity/Unity四部曲/入门/附件/Unity入门思维导图.xmind",
     "学习笔记/编程/Unity/Unity四部曲/入门/附件/Unity入门实践项目类图.xmind",
-    "学习笔记/编程/Unity/Unity四部曲/核心/实践笔记.md",
     "学习笔记/编程/Unity/Unity四部曲/核心/知识点笔记.md",
     "学习笔记/编程/CSharp/附件/Pasted image 20260318141428.png",
-    "学习笔记/编程/Unity/Unity四部曲/进阶/InputSystem.md",
     "学习笔记/编程/通识/Git/Git命令表.md",
     "学习笔记/编程/Unity/Unity四部曲/进阶",
     "计划_Plan/2026寒假.md",
-    "学习笔记/编程/Unity/Unity四部曲/基础/实践笔记.md",
     "完成的Unity包/JsonDataMgr.unitypackage",
     "完成的Unity包/未命名",
     "README.md",
@@ -224,25 +237,12 @@
     "2026-04-17_12-55-12-0.png",
     "学习笔记/编程/Unity/M_3D RPG/流程笔记.md",
     "学习笔记/面向读者笔记/Unity/AI Navigation/导航寻路系统.xmind",
-    "学习笔记/面向读者笔记/Unity/AI Navigation/AI Navigation.md",
     "学习笔记/面向读者笔记/Unity/AI Navigation",
-    "学习笔记/面向读者笔记/Unity/新建文件夹",
     "学习笔记/面向读者笔记/Unity/附件/Pasted image 20260416212220.png",
     "学习笔记/面向读者笔记/Unity/附件/Pasted image 20260416211934.png",
-    "学习笔记/面向读者笔记/Unity/AI Navigation.md",
     "Pasted image 20260416212315.png",
     "Pasted image 20260416212311.png",
     "Pasted image 20260416212303.png",
-    "学习笔记/面向读者笔记/Unity/附件",
-    "一些项目/服创/实现方案细纲.md",
-    "学习笔记/编程/Unity/M_3D RPG/u3d.md",
-    "学习笔记/面向读者笔记/CSharp语法/反射篇.md",
-    "学习笔记/面向读者笔记/Unity",
-    "学习笔记/面向读者笔记/CSharp语法/静态篇.md",
-    "一些项目/服创/项目概要介绍.md",
-    "奇奇怪怪的知识/叫 AI 好好干活/AI 提示词.md",
-    "一些项目/项目概要介绍.md",
-    "Pasted image 20260415100815.png",
-    "别人的东西/README.md"
+    "Pasted image 20260415100815.png"
   ]
 }

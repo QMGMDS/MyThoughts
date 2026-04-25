@@ -56,7 +56,7 @@ void EveryFrame()
 	Update();
 
     // 每一帧都会尝试执行 FixedUpdate
-    if(累计时间 >= Time.fixedDeltaTime * Time.timeScale)
+    if(累计时间 >= Time.fixedDeltaTime / Time.timeScale)
     {
 	    // 只有条件满足时，才会真正执行物理帧更新
         FixedUpdate();
@@ -64,7 +64,7 @@ void EveryFrame()
 }
 ```
 
-物理时间步长 = 固定的时间间隔 \* 时间缩放Time.timeScale
+物理时间步长 = 固定的时间间隔 / 时间缩放Time.timeScale
 
 这个固定的时间间隔就是指 `Edit/Project Settings/Time/Fixed Timestep` 中的数值，也就是 `Time.fixedDeltaTime` ，默认为0.02，但并不是指每隔 0.02s 成功执行一次物理帧更新，物理时间步长由 `Time.fixedDeltaTime` 和 `Time.timeScale` 共同决定
 
@@ -94,9 +94,9 @@ Time.fixedDeltaTime
 注意：`Time.deltaTime` 的最大值为 `Edit/Project Settings/Time/Maximum Allowed Timestep` ，该值默认为 0.33
 
 2. 影响物理时间步长，公式如下：
-   `物理时间步长 = Time.fixedDeltaTime * Time.timeScale`
+   `物理时间步长 = Time.fixedDeltaTime / Time.timeScale`
 
-注意：物理帧更新时间是由 `Time.fixedDeltaTime * Time.timeScale` 计算出来的结果所决定，与 `Time.fixedUnscaledDeltaTime` 无关
+注意：物理帧更新时间是由 `Time.fixedDeltaTime / Time.timeScale` 计算出来的结果所决定，与 `Time.fixedUnscaledDeltaTime` 无关
 `Time.fixedDeltaTime` 本身不会受 `timeScale` 影响
 
 # 实验
